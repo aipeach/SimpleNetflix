@@ -215,7 +215,7 @@ fi
 
 clear
 echo -e "${Font_SkyBlue} 流媒体测试脚本 ${Font_Suffix}"
-echo -e "${Font_SkyBlue} GitHub：https://github.com/missuo/SimpleNetflix ${Font_Suffix}"
+echo -e "${Font_SkyBlue} GitHub：https://github.com/aipeach/SimpleNetflix ${Font_Suffix}"
 echo "-------------------------------------"
 echo " ** 正在测试 IPv4 解锁情况";
 check4=`ping 1.1.1.1 -c 1 2>&1`;
