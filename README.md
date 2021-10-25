@@ -8,3 +8,8 @@ Netflix检测精简版
 ```shell
 bash <(curl -sSL "https://cdn.jsdelivr.net/gh/missuo/SimpleNetflix/nf.sh")
 ```
+
+## 修改版(增加对WARP S5的检测)
+```
+bash <(curl -fsSL https://git.io/Jicq7)
+```
