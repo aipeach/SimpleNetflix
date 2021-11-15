@@ -11,5 +11,10 @@ bash <(curl -sSL "https://cdn.jsdelivr.net/gh/missuo/SimpleNetflix/nf.sh")
 
 ## 修改版(增加对WARP S5的检测)
 ```
-bash <(curl -fsSL https://git.io/Jicq7)
+bash <(curl -fsSL git.io/Jicq7)
+```
+
+## 只检测 WARP Linux 客户端的IPv4是否解锁Netflix
+```
+bash <(curl -fsSL git.io/J1IEm)
 ```
